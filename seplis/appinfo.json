@@ -1,0 +1,13 @@
+{
+  "id": "net.seplis.app",
+  "version": "1.0.0",
+  "vendor": "SEPLIS",
+  "type": "web",
+  "main": "index.html",
+  "title": "SEPLIS",
+  "icon": "icon.png",
+  "requiredPermissions": [
+    "time.query",
+    "activity.operation"
+  ]
+}
